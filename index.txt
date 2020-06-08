@@ -1,2 +1,3 @@
 this is first content
 edit index file at branch1
+edit master after add branch2
